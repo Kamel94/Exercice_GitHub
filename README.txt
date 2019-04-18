@@ -16,4 +16,6 @@ Détail de ce que je fais :
 
 - J'ai créé un repository Git contenant 3 fichiers (un fichier .txt, un .html et un .css).
 
-- J'ai modifié la couleur du texte dans le fichier .css 
+- J'ai modifié la couleur du texte dans le fichier .css
+
+- J'ai ajouté du texte dans Fichier_exercice.html 
