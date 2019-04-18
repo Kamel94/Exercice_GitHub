@@ -11,3 +11,7 @@ Cette exercice consiste à créer un repository Git simple contenant :
 Ensuite, l'envoyer sur GitHub, puis copier l'URL du repository GitHub
 
 Et pour finir, envoyer le document téléchargé, avec l'URL de mon repository GitHub que j'ai inscrit dessus, dans un fichier .zip.
+
+Détail de ce que je fais :
+
+- J'ai créé un repository Git contenant 3 fichiers (un fichier .txt, un .html et un .css). 
