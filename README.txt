@@ -14,4 +14,6 @@ Et pour finir, envoyer le document téléchargé, avec l'URL de mon repository G
 
 Détail de ce que je fais :
 
-- J'ai créé un repository Git contenant 3 fichiers (un fichier .txt, un .html et un .css). 
+- J'ai créé un repository Git contenant 3 fichiers (un fichier .txt, un .html et un .css).
+
+- J'ai modifié la couleur du texte dans le fichier .css 
